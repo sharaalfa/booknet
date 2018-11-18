@@ -1,0 +1,1 @@
+/home/sharhack/IdeaProjects/Template/build/classes/java/main/hackathon/dcore/aam/Main.class
